@@ -5,3 +5,4 @@ This comes with a slight extention to the DIO-TOOLS browserscript. DM Djensan#38
 # Build with
 * JavaScript (Discord.js)
 * NodeJS
+* MySQL
